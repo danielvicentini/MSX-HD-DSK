@@ -1,17 +1,17 @@
-# MSX-HD-DSK para Windows
+# MSX-HD-DSK para PC
 
 (c) junho 2025 - Daniel Vicentini (danielvicentini@hotmail.com)
 
 # Sobre
 
-- Programa em modo de linha de comando Windows que permite criar imagem de HD para MSX-DOS no padrão FAT 16 e usar nos emuladores de MSX.
-- O programa permite escolher enter um tamanho mínimo de 32MB e máximo de 4GB (limite do padrão FAT16).
+- Programa em modo de linha de comando que permite criar imagem de HD para MSX-DOS no padrão FAT 16 e usar nos emuladores de MSX.
+- O programa permite escolher entre um tamanho mínimo de 32MB e máximo de 4GB (limite do padrão FAT16).
 
 
 
 # Como usar
 
-- Rodar o arquivo .exe (neste GIT já pré-compilado versão padrão de 64 bits ou 32 bits).
+- Rodar o arquivo .exe (neste GIT já pré-compilado Windows com gcc 14.2 versão padrão de 64 bits ou 32 bits).
 - Não é necessário usar nenhum parâmetro.
 - O arquivo *msxdos_image.dsk* será criado no diretório atual.
 
