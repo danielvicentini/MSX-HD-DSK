@@ -6,6 +6,7 @@
 
 - Programa em modo de linha de comando que permite criar imagem de HD para MSX-DOS no padrão FAT 16 e usar nos emuladores de MSX.
 - O programa permite escolher entre um tamanho mínimo de 32MB e máximo de 4GB (limite do padrão FAT16).
+- A imagem de disco criada usa o formato .DSK.
 
 
 
