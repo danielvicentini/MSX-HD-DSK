@@ -1,0 +1,6 @@
+Como compilar. 1.6.25
+-------------------------
+gcc file.c -o arquivo.exe (default 64 bits)
+gcc -m32 file.c -o arquivo.exe (em 32 bits)
+
+strip arquivo.exe (diminui o tamanho do exe removendo simbolos)
